@@ -1,5 +1,7 @@
-# Sort Algorithm Visualization Web App
+# Sortting Algorithm Visualizer Web App
 SortAlgorithm is a web development project that allows real-time visualization of sorting algorithms such as Merge Sort and Quick Sort, as well as pathfinding algorithms(Underway). This web app provides an interactive way to understand and learn about these algorithms through visualizations. 
+
+Live Link: https://akhileshyadav7007.github.io/Sorting-Visualizer-Web-App/
 
 
 
