@@ -1,0 +1,63 @@
+body {
+    background: linear-gradient(45deg, #1C1C28, #235396);
+}
+
+.button {
+    color: #fff;
+}
+
+.temp {
+    color: #27e84a;
+}
+
+pre{
+    color: white;
+}
+
+.nav-link{
+    color: white; 
+    font-size:large;
+}
+
+.nav-link:focus{
+    background-color: rgb(84, 107, 158);
+}
+
+.dBox {
+    width: 90%;
+    color: white;
+    background: linear-gradient(45deg, #1C1C28, #3a4452);
+    /* display: flex; */
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+
+}
+
+.temp {
+    color: rgb(0, 208, 255);
+}
+
+.orange {
+    color: #ff8c00;
+}
+
+canvas {
+    width: 90%;
+    display: flex;
+    grid-template-rows: repeat(3, 10vw);
+    grid-template-columns: repeat(3, 10vw);
+    /* margin:auto; */
+    /* align-self: center; */
+    border: 1px solid black;
+    border-style: groove;
+    background: linear-gradient(45deg, #1C1C28, #3a4452);
+}
+
+.container {
+    display: grid;
+    grid-template-rows: repeat(3, 10vw);
+    grid-template-columns: repeat(3, 10vw);
+}
