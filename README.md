@@ -3,6 +3,8 @@ SortAlgorithm is a web development project that allows real-time visualization o
 
 Live Link: https://akhileshyadav7007.github.io/Sorting-Visualizer-Web-App/
 
+YouTube Video Link: https://youtu.be/vTuyl3DTvbE?si=0T3zCWCDZJ-5a15o
+
 
 
 ## ⌛ Complexity Analysis 🎯
